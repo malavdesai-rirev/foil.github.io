@@ -1287,7 +1287,7 @@ h1, h2, h3, h4, h5,
   .ftco-cover-1,
   .ftco-cover-1 .container > .row {
     height: 100vh;
-    min-height: 600px; }
+    min-height: 500px; }
   .ftco-cover-1 > .container {
     position: relative; }
   .ftco-cover-1.overlay {
